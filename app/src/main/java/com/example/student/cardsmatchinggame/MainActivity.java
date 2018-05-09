@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
         Log.i("Random", "Randomy");
     }
 
-    /////jaccccccccccccc is thiccccc
+//https://social.msdn.microsoft.com/Forums/vstudio/en-US/77ed73c3-fb56-414a-bacf-0cdcd41afff4/remove-element-from-an-array-of-string?forum=csharpgeneral
+//https://stackoverflow.com/questions/13739785/removing-an-element-from-string-array-in-android
+//https://www.geeksforgeeks.org/remove-element-arraylist-java/
 
     }
